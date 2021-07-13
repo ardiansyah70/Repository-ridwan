@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T06:40:22.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="2ktEB4epuukufjkm4_kC" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T06:41:44.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="1iCx2o_tlUYQ_R21bXd-" version="14.8.6" type="github">
   <diagram id="wYqaZekAvj2n4rR8hF8H" name="Page-1">
-    <mxGraphModel dx="595" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,9 @@
         </mxCell>
         <mxCell id="5-2_3776lO51QbA3kCGq-1" value="Kategori" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="120" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5-2_3776lO51QbA3kCGq-2" value="GAMBAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234.38" y="250.3" width="95" height="99.7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
