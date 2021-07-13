@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T06:12:19.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="GBrGxDT5JuZWkKwcS5rZ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T06:13:54.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="11PmolmCQNVSe6z-lziV" version="14.8.6" type="github">
   <diagram id="IhCJr-NtWF2vdj-yF0eK" name="Page-1">
     <mxGraphModel dx="700" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K6qo3tOhX4qwj-oUIYhx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="46.25" y="50" width="640" height="400" as="geometry" />
+          <mxGeometry x="46.25" y="50" width="623.75" height="400" as="geometry" />
         </mxCell>
         <mxCell id="K6qo3tOhX4qwj-oUIYhx-2" value="LOGO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="56.25" y="50" width="90" height="50" as="geometry" />
@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K6qo3tOhX4qwj-oUIYhx-4" value="LOG OUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="596.25" y="55" width="80" height="40" as="geometry" />
+          <mxGeometry x="583.25" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K6qo3tOhX4qwj-oUIYhx-5" value="&lt;b&gt;ADMIN (ANGGOTA)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="46.25" y="110" width="117.5" height="20" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="170" y="130" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K6qo3tOhX4qwj-oUIYhx-18" value="" style="shape=rect;" vertex="1" parent="1">
-          <mxGeometry x="546.25" y="170" width="122" height="20" as="geometry" />
+          <mxGeometry x="541.25" y="170" width="122" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K6qo3tOhX4qwj-oUIYhx-19" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=3;ry=3;rectMargin=5;fillColor=#E4E4E4;strokeColor=none;" vertex="1" parent="K6qo3tOhX4qwj-oUIYhx-18">
           <mxGeometry width="122" height="20" as="geometry" />
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K6qo3tOhX4qwj-oUIYhx-21" value="INPUT DATA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="578.25" y="130" width="90" height="30" as="geometry" />
+          <mxGeometry x="573.25" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K6qo3tOhX4qwj-oUIYhx-22" value="NO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="176.25" y="210" width="46.25" height="30" as="geometry" />
