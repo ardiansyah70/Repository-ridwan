@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T06:39:31.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="5Fw1bE1tMLWO_EFhwvUQ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T06:40:22.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="2ktEB4epuukufjkm4_kC" version="14.8.6" type="github">
   <diagram id="wYqaZekAvj2n4rR8hF8H" name="Page-1">
     <mxGraphModel dx="595" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MQi_boehBmf1Iwi7T3qC-16" value="DATA KATEGORI PRODUK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="165" y="130" width="155" height="40" as="geometry" />
+          <mxGeometry x="170" y="160" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MQi_boehBmf1Iwi7T3qC-17" value="" style="shape=rect;" parent="1" vertex="1">
           <mxGeometry x="553" y="160" width="122" height="20" as="geometry" />
@@ -87,10 +87,10 @@
         <mxCell id="MQi_boehBmf1Iwi7T3qC-21" value="NO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="210" width="46.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MQi_boehBmf1Iwi7T3qC-22" value="NAMA ANGGOTA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MQi_boehBmf1Iwi7T3qC-22" value="Gambar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="210" width="113.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MQi_boehBmf1Iwi7T3qC-23" value="EMAIL ANGGOTA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MQi_boehBmf1Iwi7T3qC-23" value="Nama Kategori" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="338.75" y="210" width="153.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQi_boehBmf1Iwi7T3qC-24" value="AKSI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -108,14 +108,14 @@
             <mxPoint x="135" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQi_boehBmf1Iwi7T3qC-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/eye-128.png" parent="1" vertex="1">
-          <mxGeometry x="492.5" y="245" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="MQi_boehBmf1Iwi7T3qC-28" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.edit;" parent="1" vertex="1">
           <mxGeometry x="539.68" y="250.3" width="29.4" height="29.4" as="geometry" />
         </mxCell>
         <mxCell id="MQi_boehBmf1Iwi7T3qC-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/trash-128.png" parent="1" vertex="1">
           <mxGeometry x="576.25" y="245" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5-2_3776lO51QbA3kCGq-1" value="Kategori" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
