@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T07:33:16.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="DenFG-9NK0Gq96vW4VI8" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T07:35:10.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="t-q_qq_TTvMl03hIYPv0" version="14.8.6" type="github">
   <diagram id="BOcIafsaoxA525dmkY2j" name="Page-1">
-    <mxGraphModel dx="595" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,33 @@
         </mxCell>
         <mxCell id="9hLVcE1tSsUSJteEUP3C-13" value="Total Member" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="370" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9hLVcE1tSsUSJteEUP3C-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9hLVcE1tSsUSJteEUP3C-7" target="9hLVcE1tSsUSJteEUP3C-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hLVcE1tSsUSJteEUP3C-15" value="Vendor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9hLVcE1tSsUSJteEUP3C-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9hLVcE1tSsUSJteEUP3C-15" target="9hLVcE1tSsUSJteEUP3C-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="360" as="sourcePoint" />
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hLVcE1tSsUSJteEUP3C-17" value="Daftar Vendor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="230" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9hLVcE1tSsUSJteEUP3C-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9hLVcE1tSsUSJteEUP3C-17" target="9hLVcE1tSsUSJteEUP3C-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="290" as="sourcePoint" />
+            <mxPoint x="420" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hLVcE1tSsUSJteEUP3C-19" value="Permintaan Vendor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
