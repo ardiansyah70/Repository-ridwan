@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T05:05:57.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Z9_Dr3N1EHxd8SjymJl8" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T05:49:42.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="npCiB9JEKV092awNY1Ui" version="14.9.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="496" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="80" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cCfHOTYAyCrONOItkkA2-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_user&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ nama_user&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ email&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ no_hp&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ alamat&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ password&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ tambah()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ edit()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hapus()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="70" width="160" height="180" as="geometry" />
+          <mxGeometry x="60" y="300" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cCfHOTYAyCrONOItkkA2-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Kategori Produk&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_kategori produk&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ nama_kategori produk&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ gambar&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ tambah()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ edit()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hapus()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="70" width="160" height="140" as="geometry" />
@@ -23,107 +23,13 @@
           <mxGeometry x="720" y="340" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="cCfHOTYAyCrONOItkkA2-17" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Vendor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_vendor&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ nama vendor&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ email vendor&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ no_hp&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ instagram&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ alamat&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ password&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ gambar vendor&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ tambah()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ edit()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hapus()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="340" width="160" height="210" as="geometry" />
+          <mxGeometry x="730" y="-230" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-25" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.01;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cCfHOTYAyCrONOItkkA2-10" target="cCfHOTYAyCrONOItkkA2-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="flKmJ05DvrPBf3_9-B55-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Login User&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_user&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ nama_user&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ email&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ password&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ tambah()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ edit()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hapus()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="350" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-26" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-25" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="10" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-27" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-25" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-12" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-34" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=-0.003;entryY=0.281;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.012;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cCfHOTYAyCrONOItkkA2-11" target="cCfHOTYAyCrONOItkkA2-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="129" as="sourcePoint" />
-            <mxPoint x="660" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-35" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-34" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="8" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-36" value="N" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-34" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-9" y="11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-37" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=-0.016;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.41;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cCfHOTYAyCrONOItkkA2-12" target="cCfHOTYAyCrONOItkkA2-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="386" as="sourcePoint" />
-            <mxPoint x="690" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-38" value="N" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-37" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="7" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-39" value="M" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-37" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-7" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-44" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=-0.016;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.017;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cCfHOTYAyCrONOItkkA2-17" target="cCfHOTYAyCrONOItkkA2-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="413" y="390" as="sourcePoint" />
-            <mxPoint x="440" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-45" value="N" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-44" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="11" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-46" value="M" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-44" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-7" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-47" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cCfHOTYAyCrONOItkkA2-13" target="cCfHOTYAyCrONOItkkA2-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="300" as="sourcePoint" />
-            <mxPoint x="950" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-48" value="M" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-47" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-10" y="20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cCfHOTYAyCrONOItkkA2-49" value="N" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="cCfHOTYAyCrONOItkkA2-47" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="flKmJ05DvrPBf3_9-B55-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Login&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_user&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ nama_user&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ email&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ password&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ tambah()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ edit()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hapus()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="-150" width="160" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="flKmJ05DvrPBf3_9-B55-14" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cCfHOTYAyCrONOItkkA2-10" target="flKmJ05DvrPBf3_9-B55-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="40" as="sourcePoint" />
-            <mxPoint x="410" y="40" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="flKmJ05DvrPBf3_9-B55-15" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="flKmJ05DvrPBf3_9-B55-14">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-10" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="flKmJ05DvrPBf3_9-B55-16" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="flKmJ05DvrPBf3_9-B55-14">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="10" y="20" as="offset" />
-          </mxGeometry>
+        <mxCell id="m14hYU9P_xU4G-LDgq6J-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Login Admin&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_admin&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ nama_admin&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ email&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ password&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ tambah()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ edit()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hapus()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="80" width="160" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
